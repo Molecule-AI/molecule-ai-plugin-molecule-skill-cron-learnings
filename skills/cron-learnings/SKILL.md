@@ -1,6 +1,7 @@
 ---
 name: cron-learnings
 description: At the end of every cron tick, append 1-3 lines of operational learnings (what worked, what surprised, what should change next tick) to a per-project JSONL. Replay at start of next tick. Inspired by gstack's /learn skill.
+origin: molecule-skill-cron-learnings
 ---
 
 # cron-learnings
