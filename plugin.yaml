@@ -6,6 +6,7 @@ tags: [molecule, guardrails, memory]
 
 runtimes:
   - claude_code
+  - hermes
 
 skills:
   - cron-learnings
